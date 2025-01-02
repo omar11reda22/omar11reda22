@@ -5,6 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 --------------
 
 I've been learning a Code ,Im a .NET Developer, why!? Because I Love Microsoft,I hope to become a CEO there,Belief in Change can make a person crazy
+I’m currently a trainee in Professional Development and BI-infused CRM track at ITI. [PD][ITI][.NET]
 
 * 🌍  I'm based in Egypt
 * 🖥️  See my portfolio at [omar11reda22](http://github.com/omar11reda22)
