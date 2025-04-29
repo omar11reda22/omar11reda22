@@ -1,51 +1,29 @@
-name: GitHub Snake Game Animation
-
+name: Snake Game Animation
 on:
-  # Runs daily at 00:00 UTC (2:00 AM Egypt time)
   schedule:
     - cron: "0 0 * * *"
-  # Allows manual triggering from Actions tab
   workflow_dispatch:
-  # Runs when you push to main branch
   push:
-    branches:
-      - main
+    branches: [ main ]
 
 jobs:
-  generate-snake:
+  build:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
-
-      - name: Generate Snake Animation
+      - uses: actions/checkout@v4
+      
+      - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          # Explicitly using your username
-          github_user_name: "omar11reda22"
+          github_user_name: omar11reda22
+          svg_out_path: snake.svg
+          color_head: '#FF5555'
+          color_body: '#BD93F9'
           
-          # Customized output configurations
-          outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
-            dist/snake-rainbow.gif?color_snake=#ff79c6&color_dots=#ff5555,#ffb86c,#f1fa8c,#50fa7b,#bd93f9
-            
-          # Animation settings
-          period_days: 90  # Shows last 3 months of contributions
-          show_other_dots: true  # Shows non-contribution days
-          svg_width: 800  # Wider animation
-
-      - name: Deploy to Output Branch
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: main
-          commit_message: "Update snake animation - $(date '+%Y-%m-%d')"
-          keep_files: false  # Cleans old files on each deploy
-
-      - name: Verify Deployment
-        run: |
-          echo "Snake animation generated and deployed!"
-          echo "View at: https://github.com/omar11reda22/omar11reda22/tree/output"
+          branch: output
+          folder: .
+          clean: true
+          single-commit: true
