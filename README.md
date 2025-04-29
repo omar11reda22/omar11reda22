@@ -6,7 +6,7 @@
 
 I'm passionate about coding and obsessed with Microsoft technologies. My dream? To become a CEO at Microsoft one day! Currently honing my skills as a trainee in Professional Development and BI-infused CRM track at ITI.
 
-<img src="https://raw.githubusercontent.com/omar11reda22/omar11reda22/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/the-sabra/the-sabra/output/snake.svg" alt="Snake animation" />
 
 * 📍 Based in Egypt
 * 🖥️ Portfolio: [github.com/omar11reda22](https://github.com/omar11reda22)
