@@ -1,43 +1,50 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is omar reda aladeeb
-=========================================================================================================================================
+# Hi there! 👋 I'm Omar Reda Aladeeb 🚀
 
-.NET Developer
---------------
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-I've been learning a Code ,Im a .NET Developer, why!? Because I Love Microsoft,I hope to become a CEO there,Belief in Change can make a person crazy
-I’m currently a trainee in Professional Development and BI-infused CRM track at ITI. [PD][ITI][.NET]
+## 💻 .NET Developer | Microsoft Enthusiast | Future CEO Aspirant
 
-* 🌍  I'm based in Egypt
-* 🖥️  See my portfolio at [omar11reda22](http://github.com/omar11reda22)
-* ✉️  You can contact me at [omaraladeeb45@gmail.com](mailto:omaraladeeb45@gmail.com)
-* 🧠  I'm learning .NET Framework
-* 🤝  I'm open to collaborating on On Other Drone Projects
-* ⚡  I'M a fighter man in Code but don't tell anyone
+I'm passionate about coding and obsessed with Microsoft technologies. My dream? To become a CEO at Microsoft one day! Currently honing my skills as a trainee in Professional Development and BI-infused CRM track at ITI.
 
-<a href="https://www.github.com/omar11reda22" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/omar11reda22?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/omar_amor_i" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/omar_amor_i?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.twitch.tv/omar11reda22" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/omar11reda22?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+### 🐍 Play My GitHub Snake Game
+![Snake Game](https://github.com/omar11reda22/omar11reda22/blob/output/github-contribution-grid-snake.svg)
 
-### Skills
+*(Watch my GitHub contributions come to life as a snake game!)*
 
+### 🌐 Quick Facts
+* 📍 Based in Egypt
+* 🖥️ Portfolio: [github.com/omar11reda22](https://github.com/omar11reda22)
+* 📧 Contact: [omaraladeeb45@gmail.com](mailto:omaraladeeb45@gmail.com)
+* 🧠 Currently mastering: .NET Framework
+* 🤝 Open to collaborations on Drone Projects
+* ⚡ Secret: I'm a code warrior (shhh!)
 
+### 🛠️ Tech Stack
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" title="C#"/></a>
+  <a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" title=".NET"/></a>
+  <a href="https://angular.io/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" title="Angular"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" title="Docker"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git"/></a>
 </p>
 
+### 📊 GitHub Stats
+<a href="https://github.com/omar11reda22">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omar11reda22&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar11reda22&layout=compact&langs_count=8&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omar11reda22&theme=radical" alt="omar11reda22" />
+</a>
 
-### Socials
+### 🌍 Let's Connect
+<p align="left">
+  <a href="https://www.linkedin.com/in/omar-reda-4baaa7200/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+  <a href="https://www.x.com/omar_amor_i" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+  <a href="https://www.twitch.tv/omar11reda22" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a>
+</p>
 
-<p align="left"> <a href="https://www.github.com/omar11reda22" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/omar-reda-4baaa7200/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/omar_amor_i" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.twitch.tv/omar11reda22" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /> </picture> </a></p>
+### 🔥 Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/omar11reda22/count.svg)
 
-### Badges
+---
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/omar11reda22"><img src="https://github-readme-stats.vercel.app/api?username=omar11reda22&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="omar11reda22's GitHub stats" /></a>
-
-<a href="http://www.github.com/omar11reda22"><img src="https://github-readme-streak-stats.herokuapp.com/?user=omar11reda22&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/omar11reda22" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar11reda22&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+**Belief in change can make a person crazy... and I'm happily crazy about coding!** 💻🔥
