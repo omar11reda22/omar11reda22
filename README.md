@@ -7,9 +7,7 @@
 I'm passionate about coding and obsessed with Microsoft technologies. My dream? To become a CEO at Microsoft one day! Currently honing my skills as a trainee in Professional Development and BI-infused CRM track at ITI.
 
 ### 🐍 Play My GitHub Snake Game
-![Snake Game](https://github.com/omar11reda22/omar11reda22/blob/output/github-contribution-grid-snake.svg)
-
-*(Watch my GitHub contributions come to life as a snake game!)*
+![Snake Game](https://github.com/omar11reda22/omar11reda22/blob/output/github-contribution-grid-snake.svg?random=1)*(Watch my GitHub contributions come to life as a snake game!)*
 
 ### 🌐 Quick Facts
 * 📍 Based in Egypt
