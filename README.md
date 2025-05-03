@@ -1,13 +1,19 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=omar11reda22.omar11reda22">
+<!-- Visitor Counter -->
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=omar11reda22.omar11reda22" />
+</p>
 
+<!-- Typing Animation -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Omar+Reda+Aladeeb!;" />
 </h1>
 
+<!-- GIF -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="300"/>
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="300" />
 </div>
 
+<!-- Short Bio -->
 <h3 align="center">✨ A passionate .NET Developer & Microsoft Tech Enthusiast</h3>
 
 <br/>
@@ -15,7 +21,7 @@
 <div align="center">
 
 📍 Based in Egypt  
-📧 Contact: <a href="mailto:omaraladeeb45@gmail.com">omaraladeeb45@gmail.com</a>  
+📧 <a href="mailto:omaraladeeb45@gmail.com">omaraladeeb45@gmail.com</a>  
 🧠 Currently mastering: .NET Framework  
 🤝 Open to collaborations on Drone Projects  
 ⚡ Fun fact: I'm a code warrior (shhh!)
@@ -25,6 +31,7 @@
 <br/>
 <hr/>
 
+<!-- Tech Stack -->
 <h2 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h2>
 
 <div align="center">
@@ -34,18 +41,20 @@
 <br/>
 <hr/>
 
+<!-- GitHub Stats -->
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img width=412 src="https://github-readme-streak-stats.herokuapp.com/?user=omar11reda22&theme=radical&border_radius=10" alt="Streak stats" />
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=omar11reda22&show_icons=true&theme=radical&count_private=true&border_radius=10" alt="Stats card" />
+  <img width=412 src="https://github-readme-streak-stats.herokuapp.com/?user=omar11reda22&theme=tokyonight&border_radius=10" alt="Streak stats" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=omar11reda22&show_icons=true&theme=tokyonight&count_private=true&border_radius=10" alt="Stats card" />
   <br/>
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar11reda22&layout=compact&langs_count=10&theme=radical&border_radius=10" alt="Top Languages" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar11reda22&layout=compact&langs_count=10&theme=tokyonight&border_radius=10" alt="Top Languages" />
 </div>
 
 <br/>
 <hr/>
 
+<!-- Social Media -->
 <h2 align="center">🌍 Let's Connect</h2>
 
 <div align="center">
@@ -57,4 +66,5 @@
 <br/>
 <hr/>
 
+<!-- Quote -->
 <p align="center"><i>“Belief in change can make a person crazy... and I'm happily crazy about coding!”</i> 💻🔥</p>
