@@ -1,46 +1,51 @@
-# Hi there! 👋 I'm Omar Reda Aladeeb 🚀
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=omar11reda22.omar11reda22">
 
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Omar+Reda+Aladeeb!;" />
+</h1>
 
-## 💻 .NET Developer | Microsoft Enthusiast | Future CEO Aspirant
+<br/>
 
-I'm passionate about coding and obsessed with Microsoft technologies. My dream? To become a CEO at Microsoft one day! Currently honing my skills as a trainee in Professional Development and BI-infused CRM track at ITI.
+<div align="center">
+  
+![giphy](https://github.com/omar11reda22/omar11reda22/assets/133340500/bcb7cd72-2559-4644-a8fa-0c269a6a84cd)
 
-<img src="https://raw.githubusercontent.com/the-sabra/the-sabra/output/snake.svg" alt="Snake animation" />
+</div>
 
-* 📍 Based in Egypt
-* 🖥️ Portfolio: [github.com/omar11reda22](https://github.com/omar11reda22)
-* 📧 Contact: [omaraladeeb45@gmail.com](mailto:omaraladeeb45@gmail.com)
-* 🧠 Currently mastering: .NET Framework
-* 🤝 Open to collaborations on Drone Projects
-* ⚡ Secret: I'm a code warrior (shhh!)
+<h3 align="center">✨ A passionate .NET developer with Microsoft ambitions ✨</h3>
 
-### 🛠️ Tech Stack
-<p align="left">
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" title="C#"/></a>
-  <a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" title=".NET"/></a>
-  <a href="https://angular.io/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" title="Angular"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" title="Docker"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git"/></a>
-</p>
+<br/>
 
-### 📊 GitHub Stats
-<a href="https://github.com/omar11reda22">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omar11reda22&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar11reda22&layout=compact&langs_count=8&theme=radical"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omar11reda22&theme=radical" alt="omar11reda22" />
-</a>
+<div align="center">
+ 
+ 🔭 Currently training in Professional Development and BI-infused CRM at ITI
+ 
+ 🌱 Mastering .NET Framework and cloud technologies
 
-### 🌍 Let's Connect
-<p align="left">
-  <a href="https://www.linkedin.com/in/omar-reda-4baaa7200/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-  <a href="https://www.x.com/omar_amor_i" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-  <a href="https://www.twitch.tv/omar11reda22" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a>
-</p>
+ 💬 Ask me about C#, Angular, Docker, or DevOps
 
-### 🔥 Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/omar11reda22/count.svg)
+ 📫 Reach me at **omaraladeeb45@gmail.com**
 
----
+</div>
 
-**Belief in change can make a person crazy... and I'm happily crazy about coding!** 💻🔥
+<div align="center">
+  <a href="https://www.linkedin.com/in/omar-reda-4baaa7200/" target="_blank">
+    <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" width="48"/>
+  </a>
+  <a href="https://www.x.com/omar_amor_i" target="_blank">
+    <img src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/512/twitter_circle-512.png" width="48"/>
+  </a>
+</div>
+
+<hr/>
+ 
+<h2 align="center">⚒️ Tech Stack ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,cpp,js,ts,angular,nodejs,express" />
+    <img src="https://skillicons.dev/icons?i=docker,postgres,mongodb,mysql,html,css,vscode,visualstudio" /><br>
+</div>
+
+*Microsoft SQL Server icon added manually since not in skillicons.dev:*
+```html
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/microsoftsqlserver_original_logo_icon_146309.png" width="48" height="48"/>
