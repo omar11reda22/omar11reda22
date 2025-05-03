@@ -12,7 +12,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=omar11reda22.omar11reda22" />
 </p>
 <div align="center">
-  <img src="https://github.com/omar11reda22/omar11reda22/blob/main/solo-leveling.gif?raw=true" width="380" />
+  <img src="https://github.com/omar11reda22/omar11reda22/blob/main/Solo_leveling.gif?raw=true" width="380" />
 </div>
 
 
